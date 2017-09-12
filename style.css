@@ -1,0 +1,88 @@
+* {
+	background-color:#DFDFDF;
+	
+	font-family:Arial, sans-serif;
+	color:#6F6F6F;
+	
+label {
+	width:200px;
+}
+	
+
+} 
+.Lists {
+	display:inline-block;
+	box-sizing:border-box;
+	-webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+	margin:20px;
+	
+	}
+	#first{
+		
+		display:inline-block;
+		margin-left:100px;
+	
+	}
+	#second{
+		display:inline-block;
+		
+		
+	}
+	#third{
+		display:inline-block;
+		
+		
+	
+	}
+	p {
+		background-color:#F0F0F0;
+		padding:15px;
+		width:300px; 
+		
+
+		
+	}
+	#first,#second,#third {
+		margin:20px;
+		margin-left:50px;
+	}
+	
+	a {
+		text-decoration:none;
+		background-color:#F0F0F0;
+		
+	}
+	a:hover{
+		background-color:#A5A5A5;
+		color:red;
+		background:#C7C7C7;
+	}
+	p:hover{
+		background-color:#C7C7C7;
+		color:red;
+	}
+	#test{
+		margin-left:70px;
+		width:600px;
+		height:200px;
+		border-radius:0px;
+		border-top:0px;
+		border-left:0px;
+		font-size:80px;
+	}
+	#png{
+		height:200px;
+	}
+	#button{
+		width:300px;
+		height:300px;
+		background:url(favicon.png) center 30% no-repeat;
+			border-left:0px;
+				border-right:0px;
+					border-top:0px;
+					border-bottom:2px red;
+					margin-top:-200px;
+					margin-left:1000px;
+	}
